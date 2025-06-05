@@ -16,22 +16,26 @@ h1 {
     color: 123350;
     font-family: Courier;
     font-size: 200%;
+    margin: 50px;
 }
 
 h2 {
     color: 123350;
     font-family: Courier;
     font-size: 125%;
+    margin: 50px;
 }
 
 h3 {
     color: 123350;
     font-family: Courier;
     font-size: 110%;
+    margin: 50px;
 }
 
 p {
     color: 123350;
     font-family: Helvetica;
     font-size: 100%;
+    margin: 50px;
 }
