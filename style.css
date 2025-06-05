@@ -2,14 +2,12 @@ body {
     background-color: FFFDF6;
 }
 
-red_accent {
+pink_accent {
     color: FF709B;
-    font-family: Helvetica;
 }
 
-blue_accent {
+link {
     color: 6184d8;
-    font-family: Helvetica;
 }
 
 h1 {
@@ -17,8 +15,8 @@ h1 {
     font-family: Courier;
     font-size: 200%;
     margin: 50px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 h2 {
@@ -26,8 +24,8 @@ h2 {
     font-family: Courier;
     font-size: 125%;
     margin: 50px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 h3 {
@@ -35,7 +33,7 @@ h3 {
     font-family: Courier;
     font-size: 110%;
     margin: 50px;
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 10px;
 }
 
