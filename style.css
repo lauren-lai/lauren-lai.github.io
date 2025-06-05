@@ -1,2 +1,18 @@
-body {background-color: blanchedalmond}
-p {color: darkblue}
+body {
+    background-color: eef1ef
+}
+
+accent {
+    color: ea3546;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+p {
+    color: 0d1821;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+link {
+    color: 6184d8;
+    font-family: Arial, Helvetica, sans-serif
+}
