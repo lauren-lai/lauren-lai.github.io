@@ -14,7 +14,7 @@ h1 {
     color: 123350;
     font-family: Courier;
     font-size: 200%;
-    margin: 50px;
+    margin: 75px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -23,7 +23,7 @@ h2 {
     color: 123350;
     font-family: Courier;
     font-size: 125%;
-    margin: 50px;
+    margin: 75px;
     margin-top: 15px;
     margin-bottom: 15px;
 }
@@ -32,8 +32,8 @@ h3 {
     color: 123350;
     font-family: Courier;
     font-size: 110%;
-    margin: 50px;
-    margin-top: 20px;
+    margin: 75px;
+    margin-top: 25px;
     margin-bottom: 10px;
 }
 
@@ -41,7 +41,7 @@ p {
     color: 123350;
     font-family: Helvetica;
     font-size: 100%;
-    margin: 50px;
+    margin: 75px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
