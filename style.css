@@ -17,6 +17,8 @@ h1 {
     font-family: Courier;
     font-size: 200%;
     margin: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 h2 {
@@ -24,6 +26,8 @@ h2 {
     font-family: Courier;
     font-size: 125%;
     margin: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 h3 {
@@ -31,6 +35,8 @@ h3 {
     font-family: Courier;
     font-size: 110%;
     margin: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 p {
@@ -38,4 +44,6 @@ p {
     font-family: Helvetica;
     font-size: 100%;
     margin: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
