@@ -1,5 +1,5 @@
 body {
-    background-color: FFFDF6;
+    background-color: 123350;
 }
 
 red_accent {
@@ -13,25 +13,25 @@ blue_accent {
 }
 
 h1 {
-    color: 123350;
+    color: FFFDF6;
     font-family: Helvetica;
     font-size: 200%;
 }
 
 h2 {
-    color: 123350;
+    color: FFFDF6;
     font-family: Helvetica;
     font-size: 125%;
 }
 
 h3 {
-    color: 123350;
+    color: FFFDF6;
     font-family: Helvetica;
     font-size: 110%;
 }
 
 p {
-    color: 0A1926;
+    color: FFFDF6;
     font-family: Helvetica;
     font-size: 100%;
 }
