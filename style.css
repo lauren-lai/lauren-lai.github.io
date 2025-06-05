@@ -2,8 +2,13 @@ body {
     background-color: FFFDF6;
 }
 
-accent {
+red_accent {
     color: ea3546;
+    font-family: Helvetica;
+}
+
+blue_accent {
+    color: 6184d8;
     font-family: Helvetica;
 }
 
@@ -16,22 +21,17 @@ h1 {
 h2 {
     color: 123350;
     font-family: Helvetica;
-    font-size: 150%;
+    font-size: 125%;
 }
 
 h3 {
     color: 123350;
     font-family: Helvetica;
-    font-size: 125%;
+    font-size: 110%;
 }
 
 p {
-    color: ea3546;
+    color: 0A1926;
     font-family: Helvetica;
     font-size: 100%;
-}
-
-link {
-    color: 6184d8;
-    font-family: Helvetica;
 }
