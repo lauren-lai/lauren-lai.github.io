@@ -1,5 +1,5 @@
 body {
-    background-color: red
+    background-color: FFFDF6
 }
 
 accent {
@@ -8,21 +8,21 @@ accent {
 }
 
 h1 {
-    color: 0d1821;
+    color: 0A1926;
     font-family: Helvetica
 }
 
 h3 {
-    color: 0d1821;
+    color: 0A1926;
     font-family: Helvetica
 }
 
 p {
-    color: 0d1821;
-    font-family: Verdana
+    color: 0A1926;
+    font-family: Futura
 }
 
 link {
     color: 6184d8;
-    font-family: Helvetica
+    font-family: Futura
 }
