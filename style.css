@@ -60,6 +60,8 @@ p {
     margin-bottom: 10px;
 }
 
-div {
+.info > div {
     display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
 }
