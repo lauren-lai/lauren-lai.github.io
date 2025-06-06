@@ -20,7 +20,7 @@ main_text {
 
 a:link {
     color: light_blue_accent;
-    text-decoration: underline;
+    text-decoration: none;
     cursor: auto;
 }
 
@@ -33,7 +33,7 @@ h1 {
     font-family: Courier;
     font-size: 200%;
     margin: 200px;
-    margin-top: 200px;
+    margin-top: 150px;
     margin-bottom: 20px;
 }
 
