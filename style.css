@@ -60,7 +60,7 @@ p {
     margin-bottom: 10px;
 }
 
-.info > div {
+section {
     display: flex;
     flex-wrap: wrap;
     padding: 10px;
