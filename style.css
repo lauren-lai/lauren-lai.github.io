@@ -6,26 +6,18 @@ pink_accent {
     color: FF709B;
 }
 
-light_blue_accent {
-    color: ff0000;
-}
-
-dark_blue_accent {
-    color: 00FF00;
-}
-
 main_text {
-    color: 123350;
+    color: FF0000;
 }
 
 a:link, a:hover, a:active {
-    color: light_blue_accent;
+    color: 6184d8;
     text-decoration: underline;
     cursor: auto;
 }
 
 a:visited {
-    color: dark_blue_accent;
+    color: 254693;
 }
 
 h1 {
@@ -68,7 +60,8 @@ p2 {
     color: main_text;
     font-family: Helvetica;
     font-size: 100%;
-    margin: 225px;
+    margin: 200px;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-indent: 25px;
 }
