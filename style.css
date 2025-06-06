@@ -62,6 +62,7 @@ p {
 
 chunk {
     color:FF0000;
+    flex: 1;
 }
 
 section {
