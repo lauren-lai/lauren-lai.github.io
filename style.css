@@ -1,13 +1,13 @@
 :root {
-    --pink: #FF709B;
-    --unclicked: #6184d8;
-    --clicked: #254693;
-    --background_color: #FFFDF6;
-    --body_text: #FF0000;
+    --pink: #ff0000;
+    --unclicked: #ffc400;
+    --clicked: #73ff00;
+    --backgroundColor: #3700ff;
+    --bodyText: #ff00d9;
 }
 
 body {
-    background-color: var(--background_color);
+    background-color: var(--backgroundColor);
 }
 
 pink_accent {
@@ -27,7 +27,7 @@ a:visited {
 }
 
 h1 {
-    color: var(--body_text);
+    color: var(--bodyText);
     font-family: Courier;
     font-size: 200%;
     margin: 200px;
@@ -36,7 +36,7 @@ h1 {
 }
 
 h2 {
-    color: var(--body_text);
+    color: var(--bodyText);
     font-family: Courier;
     font-size: 125%;
     margin: 200px;
@@ -45,7 +45,7 @@ h2 {
 }
 
 h3 {
-    color: var(--body_text);
+    color: var(--bodyText);
     font-family: Courier;
     font-size: 110%;
     margin: 200px;
@@ -54,7 +54,7 @@ h3 {
 }
 
 p {
-    color: var(--body_text);
+    color: var(--bodyText);
     font-family: Helvetica;
     font-size: 100%;
     margin: 200px;
@@ -63,11 +63,11 @@ p {
 }
 
 p2 {
-    color: var(--body_text);
+    color: var(--bodyText);
     font-family: Helvetica;
     font-size: 100%;
     margin: 200px;
     margin-top: 10px;
     margin-bottom: 10px;
-    text-indent: 25px, hanging;
+    text-indent: 25px, each-line;
 }
