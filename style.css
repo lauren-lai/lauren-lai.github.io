@@ -11,7 +11,7 @@ light_blue_accent {
 }
 
 dark_blue_accent {
-    color: 375EB8;
+    color: 254693;
 }
 
 main_text {
@@ -60,15 +60,6 @@ p {
     font-family: Helvetica;
     font-size: 100%;
     margin: 200px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-custom_p {
-    color: main_text;
-    font-family: Helvetica;
-    font-size: 100%;
-    margin: 250px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
