@@ -7,11 +7,11 @@ pink_accent {
 }
 
 light_blue_accent {
-    color: 6184D8;
+    color: ff0000;
 }
 
 dark_blue_accent {
-    color: 254693;
+    color: 00FF00;
 }
 
 main_text {
@@ -26,6 +26,10 @@ a:link {
 
 a:visited {
     color: dark_blue_accent;
+}
+
+div {
+    text-indent: 50px;
 }
 
 h1 {
