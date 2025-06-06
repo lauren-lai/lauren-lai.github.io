@@ -51,6 +51,15 @@ h3 {
     margin-bottom: 7px;
 }
 
+h4 {
+color: var(--bodyText);
+    font-family: Helvetica;
+    font-size: 110%;
+    margin: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 p {
     color: var(--bodyText);
     font-family: Helvetica;
@@ -62,6 +71,7 @@ p {
 
 .flex-container {
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
     align-items: flex-start;
     justify-content: flex-start;
