@@ -19,13 +19,13 @@ main_text {
 }
 
 a {
-    color: ff0000;
+    color: light_blue_accent;
     text-decoration: underline;
     cursor: auto;
 }
 
 a:visited {
-    color: 254693;
+    color: dark_blue_accent;
 }
 
 h1 {
