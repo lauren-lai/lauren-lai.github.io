@@ -62,9 +62,10 @@ p {
 
 .flex-container {
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
-    margin: 200px;
     align-items: flex-start;
+    justify-content: flex-start;
     border: 5px solid black;
 }
 
