@@ -62,12 +62,12 @@ p {
 
 chunk {
     flex: 1;
-    line-height: 5px;
+    border: 5px;
 }
 
 div {
     display: flex;
     flex-wrap: wrap;
-    align-items: stretch;
-    line-height: 10px;
+    align-items: start;
+    border: 10px;
 }
