@@ -6,8 +6,22 @@ pink_accent {
     color: FF709B;
 }
 
-link {
+light_blue_accent {
     color: 6184d8;
+}
+
+dark_blue_accent {
+    color: 375EB8;
+}
+
+a:link {
+    color: light_blue_accent;
+    text-decoration: underline;
+    cursor: auto;
+}
+
+a:visited {
+    color: dark_blue_accent;
 }
 
 h1 {
