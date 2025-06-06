@@ -20,7 +20,7 @@ a {
     cursor: auto;
 }
 
-a:focus {
+a:focus, a:active {
     color: var(--clicked);
 }
 
