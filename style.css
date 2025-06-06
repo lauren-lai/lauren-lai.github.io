@@ -14,15 +14,13 @@ pink_accent {
     color: var(--pink);
 }
 
-a:link,
-a:hover,
-a:active {
+a{
     color: var(--unclicked);
     text-decoration: underline;
     cursor: auto;
 }
 
-a:visited {
+a:focus, a:active {
     color: var(--clicked);
 }
 
@@ -58,15 +56,6 @@ p {
     font-family: Helvetica;
     font-size: 100%;
     margin: 200px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-p2 {
-    color: var(--bodyText);
-    font-family: Helvetica;
-    font-size: 100%;
-    margin: 300px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
