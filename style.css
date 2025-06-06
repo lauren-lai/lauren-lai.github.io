@@ -61,11 +61,13 @@ p {
 }
 
 chunk {
-    color:FF0000;
     flex: 1;
+    line-height: 5px;
 }
 
-section {
+div {
     display: flex;
     flex-wrap: wrap;
+    align-items: stretch;
+    line-height: 10px;
 }
