@@ -3,7 +3,7 @@
     --unclicked: #6184d8;
     --clicked: #254693;
     --background_color: #FFFDF6;
-    --body_text: #123350;
+    --body_text: #FF0000;
 }
 
 body {
@@ -69,5 +69,5 @@ p2 {
     margin: 200px;
     margin-top: 10px;
     margin-bottom: 10px;
-    text-indent: 25px;
+    text-indent: 25px, hanging;
 }
