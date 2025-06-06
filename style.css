@@ -18,7 +18,7 @@ main_text {
     color: 123350;
 }
 
-a {
+a:link, a:hover, a:active {
     color: light_blue_accent;
     text-decoration: underline;
     cursor: auto;
