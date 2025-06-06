@@ -1,27 +1,33 @@
+:root {
+    --pink: #FF709B;
+    --unclicked: #6184d8;
+    --clicked: #254693;
+    --background_color: #FFFDF6;
+    --body_text: #123350;
+}
+
 body {
-    background-color: FFFDF6;
+    background-color: var(--background_color);
 }
 
 pink_accent {
-    color: FF709B;
+    color: var(--pink);
 }
 
-main_text {
-    color: FF0000;
-}
-
-a:link, a:hover, a:active {
-    color: 6184d8;
+a:link,
+a:hover,
+a:active {
+    color: var(--unclicked);
     text-decoration: underline;
     cursor: auto;
 }
 
 a:visited {
-    color: 254693;
+    color: var(--clicked);
 }
 
 h1 {
-    color: main_text;
+    color: var(--body_text);
     font-family: Courier;
     font-size: 200%;
     margin: 200px;
@@ -30,7 +36,7 @@ h1 {
 }
 
 h2 {
-    color: main_text;
+    color: var(--body_text);
     font-family: Courier;
     font-size: 125%;
     margin: 200px;
@@ -39,7 +45,7 @@ h2 {
 }
 
 h3 {
-    color: main_text;
+    color: var(--body_text);
     font-family: Courier;
     font-size: 110%;
     margin: 200px;
@@ -48,7 +54,7 @@ h3 {
 }
 
 p {
-    color: main_text;
+    color: var(--body_text);
     font-family: Helvetica;
     font-size: 100%;
     margin: 200px;
@@ -57,7 +63,7 @@ p {
 }
 
 p2 {
-    color: main_text;
+    color: var(--body_text);
     font-family: Helvetica;
     font-size: 100%;
     margin: 200px;
