@@ -68,6 +68,6 @@ chunk {
 div {
     display: flex;
     flex-wrap: wrap;
-    align-items: flex-start;
+    align-items: center;
     border: 10px solid black;
 }
