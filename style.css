@@ -60,8 +60,11 @@ p {
     margin-bottom: 10px;
 }
 
+chunk {
+    color:FF0000;
+}
+
 section {
     display: flex;
     flex-wrap: wrap;
-    padding: 10px;
 }
