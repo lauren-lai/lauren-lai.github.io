@@ -1,9 +1,9 @@
 :root {
-    --pink: #ff0000;
-    --unclicked: #ffc400;
-    --clicked: #73ff00;
-    --backgroundColor: #3700ff;
-    --bodyText: #ff00d9;
+    --pink: #ff709b;
+    --unclicked: #6184d8;
+    --clicked: #254693;
+    --backgroundColor: #fffdf6;
+    --bodyText: #123350;
 }
 
 body {
@@ -66,8 +66,7 @@ p2 {
     color: var(--bodyText);
     font-family: Helvetica;
     font-size: 100%;
-    margin: 200px;
+    margin: 300px;
     margin-top: 10px;
     margin-bottom: 10px;
-    text-indent: 25px, each-line;
 }
