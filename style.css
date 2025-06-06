@@ -62,12 +62,12 @@ p {
 
 chunk {
     flex: 1;
-    border: 5px black;
+    border: 5px solid black;
 }
 
 div {
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
-    border: 10px black;
+    border: 10px solid black;
 }
