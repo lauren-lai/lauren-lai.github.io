@@ -25,14 +25,7 @@ a {
 }
 
 a:visited {
-    color: 00FF00;
-}
-
-div {
-    color: main_text;
-    font-family: Helvetica;
-    font-size: 100%;
-    text-indent: 50px;
+    color: 254693;
 }
 
 h1 {
@@ -67,6 +60,15 @@ p {
     font-family: Helvetica;
     font-size: 100%;
     margin: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p2 {
+    color: main_text;
+    font-family: Helvetica;
+    font-size: 100%;
+    margin: 225px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
