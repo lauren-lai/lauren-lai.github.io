@@ -18,9 +18,9 @@ main_text {
     color: 123350;
 }
 
-a:link {
+a {
     color: ff0000;
-    text-decoration: none;
+    text-decoration: underline;
     cursor: auto;
 }
 
@@ -29,6 +29,9 @@ a:visited {
 }
 
 div {
+    color: main_text;
+    font-family: Helvetica;
+    font-size: 100%;
     text-indent: 50px;
 }
 
