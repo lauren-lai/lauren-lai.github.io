@@ -14,13 +14,13 @@ pink_accent {
     color: var(--pink);
 }
 
-a{
+a {
     color: var(--unclicked);
     text-decoration: underline;
     cursor: auto;
 }
 
-a:focus, a:active {
+a:focus {
     color: var(--clicked);
 }
 
