@@ -19,13 +19,13 @@ main_text {
 }
 
 a:link {
-    color: light_blue_accent;
+    color: ff0000;
     text-decoration: none;
     cursor: auto;
 }
 
 a:visited {
-    color: dark_blue_accent;
+    color: 00FF00;
 }
 
 div {
