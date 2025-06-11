@@ -57,7 +57,7 @@ h4 {
     font-family: Helvetica;
     font-size: 110%;
     margin: 200px;
-    margin-top: 10px;
+    margin-top: 125px;
     margin-bottom: 10px;
 }
 
@@ -83,6 +83,6 @@ p {
     flex: 1;
     border: 3px dashed blue;
     text-align: left;
-    margin-left: 0px !important;
-    margin-right: 0px !important;
+    margin-left: unset;
+    margin-right: unset;
 }
