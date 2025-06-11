@@ -75,7 +75,7 @@ p {
     flex-wrap: wrap;
     align-content: flex-start;
     justify-content: space-evenly;
-    gap: 1rem;
+    gap: 0rem;
 }
 
 .flex-container>div {
