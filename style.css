@@ -81,6 +81,8 @@ p {
 
 .flex-container > div {
     flex: 1;
-    border: 3px dashed red;
+    border: 3px dashed blue;
     text-align: left;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
 }
