@@ -29,45 +29,45 @@ h1 {
     color: var(--bodyText);
     font-family: Courier;
     font-size: 200%;
-    margin: 200px;
-    margin-top: 150px;
-    margin-bottom: 20px;
+    margin: 200em;
+    margin-top: 150em;
+    margin-bottom: 20em;
 }
 
 h2 {
     color: var(--bodyText);
     font-family: Courier;
     font-size: 125%;
-    margin: 200px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin: 200em;
+    margin-top: 15em;
+    margin-bottom: 15em;
 }
 
 h3 {
     color: var(--bodyText);
     font-family: Courier;
     font-size: 110%;
-    margin: 200px;
-    margin-top: 25px;
-    margin-bottom: 7px;
+    margin: 200em;
+    margin-top: 25em;
+    margin-bottom: 7em;
 }
 
 h4 {
     color: var(--bodyText);
     font-family: Helvetica;
     font-size: 110%;
-    margin: 200px;
-    margin-top: 125px;
-    margin-bottom: 10px;
+    margin: 200em;
+    margin-top: 125em;
+    margin-bottom: 10em;
 }
 
 p {
     color: var(--bodyText);
     font-family: Helvetica;
     font-size: 100%;
-    margin: 200px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin: 200em;
+    margin-top: 10em;
+    margin-bottom: 10em;
 }
 
 .flex-container {
@@ -75,14 +75,14 @@ p {
     flex-wrap: wrap;
     align-content: flex-start;
     justify-content: space-evenly;
-    border: 5px solid red;
-    gap: 20px;
+    border: 5em solid red;
+    gap: 20em;
 }
 
 .flex-container > div {
     flex: 1;
-    border: 3px dashed blue;
+    border: 3em dashed yellow;
     text-align: left;
-    margin-left: unset;
-    margin-right: unset;
+    margin-left: -200em;
+    margin-right: -200em;
 }
