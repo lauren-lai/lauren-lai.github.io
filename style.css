@@ -89,7 +89,15 @@ p {
     display: grid;
     grid-template-columns: 2fr 3fr;
     gap:0rem
-    
+}
+
+b {
+    color: var(--bodyText);
+    font-family: Helvetica;
+    font-size: 100%;
+    margin: 0rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .grid-item {
