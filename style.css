@@ -91,16 +91,8 @@ p {
     gap:0rem
 }
 
-b {
-    color: var(--bodyText);
-    font-family: Helvetica;
-    font-size: 100%;
+.info {
     margin-right: 12.5rem;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-}
-
-.grid-item {
-    border: 5px red;
-    text-align: left;
+    margin-left: 0rem;
+  
 }
