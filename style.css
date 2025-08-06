@@ -87,6 +87,6 @@ p {
 
 .two-column-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap:0.5rem
+    grid-template-columns: 1fr 2fr;
+    gap:0.25rem
 }
