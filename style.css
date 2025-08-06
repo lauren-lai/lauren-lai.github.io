@@ -87,11 +87,11 @@ p {
 
 .two-column-grid {
     display: grid;
-    grid-template-columns: 1fr 1.5fr;
+    grid-template-columns: 1fr 1fr;
     gap:0rem
 }
 
 .grid-item {
-    border: 1px red;
+    border: 5px red;
     text-align: left;
 }
