@@ -90,12 +90,3 @@ p {
     grid-template-columns: 2fr 3fr;
     gap:0rem
 }
-
-.info {
-    color: var(--bodyText);
-    font-family: Helvetica;
-    font-size: 100%;
-    margin-right: 12.5rem;
-    margin-left: 0rem;
-  
-}
