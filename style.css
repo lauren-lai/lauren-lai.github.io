@@ -90,3 +90,8 @@ p {
     grid-template-columns: 1fr 1.5fr;
     gap:0rem
 }
+
+.grid-item {
+    border: 1px red;
+    text-align: left;
+}
